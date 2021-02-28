@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<songs>
+
+    <song category = "Pop">
+        <title>WITHOUT YOU</title>
+        <artist>The Kid Laroi</artist>
+        <year>2020></year>
+    </song>
+
+    <song category = "Pop">
+        <title>SO DONE</title>
+        <artist>The Kid Laroi</artist>
+        <year>2020></year>
+    </song>
+
+    <song category = "Pop">
+        <title>Despeinada</title>
+        <artist>Ozuna, Camilo</artist>
+        <year>2020</year>
+    </song>
+
+    <song category = "Rap">
+        <title>Memory</title>
+        <artist>Promoting Sounds, Rxseboy, SadBoyProlific</artist>
+        <year>2020></year>
+    </song>
+
+    <song category = "Rap">
+        <title>Are You Okay?</title>
+        <artist>Thomas Reid, Rxseboy, Powfu</artist>
+        <year>2020</year>
+    </song>
+
+    <song category = "Hip-hop">
+        <title>change ur mind</title>
+        <artist>Sarcastic Sounds, Claire Rosinkranz, Clinton Kane</artist>
+        <year>2021</year>
+    </song>
+    
+
+
+</songs>
