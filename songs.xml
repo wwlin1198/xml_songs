@@ -1,43 +1,76 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="songs.css"?>
 
 <songs>
-
+    <heading>Song List</heading>
+    <!-- 1 -->
     <song category = "Pop">
         <title>WITHOUT YOU</title>
         <artist>The Kid Laroi</artist>
-        <year>2020></year>
+        <year>2020</year>
     </song>
-
+    
+    <!-- 2 -->
     <song category = "Pop">
         <title>SO DONE</title>
         <artist>The Kid Laroi</artist>
-        <year>2020></year>
+        <year>2020</year>
     </song>
 
+    <!-- 3 -->
     <song category = "Pop">
         <title>Despeinada</title>
         <artist>Ozuna, Camilo</artist>
         <year>2020</year>
     </song>
 
+    <!-- 4 -->
     <song category = "Rap">
         <title>Memory</title>
         <artist>Promoting Sounds, Rxseboy, SadBoyProlific</artist>
-        <year>2020></year>
+        <year>2020</year>
     </song>
 
+    <!-- 5 -->
     <song category = "Rap">
         <title>Are You Okay?</title>
         <artist>Thomas Reid, Rxseboy, Powfu</artist>
         <year>2020</year>
     </song>
 
+    <!-- 6 -->
     <song category = "Hip-hop">
         <title>change ur mind</title>
         <artist>Sarcastic Sounds, Claire Rosinkranz, Clinton Kane</artist>
         <year>2021</year>
     </song>
-    
 
+    <!-- 7 -->
+    <song category = "Electronic">
+        <title>Hearts On Fire</title>
+        <artist>Illenium,Dabin,Lights</artist>
+        <year>2020</year>
+    </song>
+
+    <!-- 8 -->
+    <song category = "Electronic">
+        <title>Paper Thin</title>
+        <artist>Illenium, Tom Delonge, Angels andAirwaves</artist>
+        <year>2021</year>
+    </song>
+
+    <!-- 9 -->
+    <song category = "Electronic">
+        <title>Nightlight</title>
+        <artist>Illenium, Annika Wells</artist>
+        <year>2020</year>
+    </song>
+
+    <!-- 10 -->
+    <song category = "R and B">
+        <title>Mmmh</title>
+        <artist>KAI</artist>
+        <year>2020</year>
+    </song>
 
 </songs>

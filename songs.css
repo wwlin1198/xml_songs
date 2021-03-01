@@ -1,0 +1,20 @@
+songs{
+    color: white;
+    background-color: thistle;
+    width: 100%;
+}
+
+title{
+    font-size: 25px;
+    font-weight: bold;
+}
+
+heading{
+    color: green;
+    font-size: 40px;
+    background-color: grey;
+}
+
+heading, artist, year{
+    display: block;
+}
