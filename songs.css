@@ -1,6 +1,6 @@
 songs{
-    color: white;
-    background-color: thistle;
+    color: rgb(247, 240, 240);
+    background-color: rgb(82, 77, 82);
     width: 100%;
 }
 
@@ -10,9 +10,9 @@ title{
 }
 
 heading{
-    color: green;
+    color: rgb(63, 63, 62);
     font-size: 40px;
-    background-color: grey;
+    background-color: rgb(230, 228, 228);
 }
 
 heading, artist, year{
